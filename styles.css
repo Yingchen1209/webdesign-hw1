@@ -1,0 +1,252 @@
+html{
+  width: 1260px;
+  height: 940px;
+  background-color: #ffffff
+}
+body{
+  width: 1260px;
+  height: 880px;
+  background-color: #edf2c5;
+  padding-top:36px;
+
+}
+header{
+    margin-left:160px;
+    width: 271px;
+    height: 42px;
+    text-align: left;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    color: #778a50
+}
+.vet{
+  margin-right:160px;
+}
+
+.right {
+  float: right;
+  margin: 30px 10px;
+  margin-right: 10px;
+  
+}
+.left {
+  float: left;
+  margin:15px 0;
+  margin-right:12px;
+}
+.btn_JOIN_box {
+  width: 49px;
+  height: 25px;
+  border: solid 1px #778a50;
+  float:right;
+  border-radius: 3px;
+  margin:30px 0px;
+}
+h2 {
+  margin:5px 7px;
+  width: 46px;
+  height: 15px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #778a50;
+}
+.btn_LOGIN_box {
+  width: 60px;
+  height: 25px;
+  border: solid 1px #778a50;
+  float:right;
+  border-radius: 3px;
+  margin:30px 10px;
+}
+
+.line_login {
+  margin:30px 0;
+  width: 1px;
+  height: 25px;
+  background-color: #778a50;
+  float:right;
+}
+.nav_box {
+    border-radius: 3px;
+    width: 940px;
+    height: 44px;
+    background-color: #778a50;
+    margin-bottom:744px;
+    margin-top:8px;
+    margin-left:160px; 
+    
+}
+ul {
+    padding: 0px 30px;
+    text-align: left;
+    margin: 30px auto;
+  }
+li {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 200px;
+    display: inline-block;
+    text-align:center;
+    margin:10px 30px ;
+  }
+.Home {
+    width: 51px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5; 
+}
+.About-Us {
+    width: 80px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+.Vegetables {
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+.Online {
+    width: 56px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+.Contact {
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+.img_main_pumpkin {
+    width: 940px;
+    height: 448px;
+    object-fit: contain;
+}
+h1{
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 200px;
+  display: inline-block;
+  text-align:center;
+  margin:10px 30px ;  
+
+}
+.body_box_vegetables {
+  margin-top:30px;
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  float:left;
+  margin-top:30px;
+
+}
+.body_box_contact {
+  margin-top:30px;
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  float:right;
+}
+.body_box_contact_text {
+  margin-top:15px;
+ 
+  padding: 15px 15px;
+  width: 414px;
+  height: 110px;
+  background-color: #f7fbda;
+  float:right;
+}
+.bg{
+  width: 414px;
+  height: 44px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+
+}
+.line_contact_text {
+  margin-top:15px;
+  width: 414px;
+  height: 1px;
+  background-color: #7d7d7d;
+}
+p{
+  margin:23px 480px;
+  width: 301px;
+  height: 14px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 3;
+  color: #edf2c5;
+}
+footer {
+  margin-top:35px;
+  width: 1260px;
+  height: 60px;
+  background-color: #778a50;
+}
+p{
+  margin:0 480px;
+  padding:23px 0;
+  width: 301px;
+  height: 14px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 15px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
